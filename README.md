@@ -1,6 +1,6 @@
 ## Senior Software Engineer | 10+ Years of Experience
 ## 🚀  About Me
-I’m a Senior Software Engineer with 12+ years of experience building scalable web applications, backend services, APIs, cloud-based platforms, and AI-powered solutions.
+I’m a Senior Software Engineer with 10+ years of experience building scalable web applications, backend services, APIs, cloud-based platforms, and AI-powered solutions.
 
 My background spans full-stack and backend development, with hands-on experience across React, Node.js, Java, .NET, and Python. I’ve worked on modern application architecture, API development, distributed systems, data-driven platforms, automation, and production software used in real-world business environments.
 
